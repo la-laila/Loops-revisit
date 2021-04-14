@@ -20,7 +20,7 @@ evenPrint(13) => 2,4,6,8,10,12
 
 function evenPrint(number){
   //CODE BELOW HERE
-
+for(var i = 0; i <= number; i++){
 
   //CODE ABOVE HERE
 }
@@ -53,7 +53,7 @@ oddPrint(12) => 1,3,5,7,9,11
 
 function oddPrint(number){
   //CODE BELOW HERE
-
+for (var i = 0; i <= number; i++){
 
   //CODE ABOVE HERE
 }
@@ -79,7 +79,7 @@ evenOdd(5) => even, odd, even, odd, even, odd
 
 function evenOdd(number){
   //CODE BELOW HERE
-
+var evenOdd(4) => even, odd, even, odd, even
 
   //CODE ABOVE HERE
 }
@@ -102,7 +102,7 @@ countUp(10) => 1,2,3,4,5,6,7,8,9,10
 
 function countUp(number){
   //CODE BELOW HERE
-
+var countUp(8) => 1,2,3,4,5,6,7,8
 
   //CODE ABOVE HERE
 }
@@ -123,7 +123,7 @@ countDown(10) =>10,9,8,7,6,5,4,3,2,1
 
 function countDown(number){
   //CODE BELOW HERE
-
+var countDown(9) => 9,8,7,6,5,4,3,2,1
 
   //CODE ABOVE HERE
 }
